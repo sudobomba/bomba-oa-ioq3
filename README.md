@@ -1,4 +1,4 @@
-# OpenArena Ioq3
+# OpenArena Ioq3 (Bomba Edition)
 
 [![Build](https://github.com/OpenArena-Ioq3/openarena-ioq3/actions/workflows/build.yml/badge.svg)](https://github.com/OpenArena-Ioq3/openarena-ioq3/actions/workflows/build.yml)
 
